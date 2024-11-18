@@ -3,7 +3,9 @@
 - 🌱 Estudande de ADS.
 - ☕ O café é o combustível, o código é o resultado.
 
+![Davi Carreiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi-info&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-info&layout=compact&bg_color=000000&text_color=ffffff)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
